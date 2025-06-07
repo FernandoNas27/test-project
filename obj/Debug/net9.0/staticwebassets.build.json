@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MuzMVW0wYwpjKzICQRpDXBosWFjUdMGInNWr3yNZw84=",
+  "Source": "HelloWebApp",
+  "BasePath": "_content/HelloWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
